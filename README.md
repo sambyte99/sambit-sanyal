@@ -47,7 +47,7 @@ git remote -v
 ```
 ### you should be able to see (push) and (fetch) commands available if everything was as planned
 
-### 6. Letes learn how to make branches because commiting to the _* main *_ is to _* mainstream *_
+### 6. Let us learn how to make branches because commiting to the _main_ is to _mainstream_
 ### To create a new branch all you gotta do is:
 ```
 git branch <branch_name>
