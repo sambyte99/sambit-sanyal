@@ -46,6 +46,10 @@ git remote add origin https://github.com/acccount_name/repository_name.git
 git remote -v
 ```
 ### you should be able to see (push) and (fetch) commands available if everything was as planned
+## Now to show your commitment:
+```
+git commit -m "Commit message in quotes"
+```
 
 ### 6. Let us learn how to make branches because commiting to the _main_ is to _mainstream_
 ### To create a new branch all you gotta do is:
