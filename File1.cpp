@@ -6,6 +6,7 @@ int main ()
 {
 
 cout<<"Hellow World!!\n";
+cout<<"Welcome to github!"
 
 }
 
